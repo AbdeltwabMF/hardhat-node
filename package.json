@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-node",
+  "description": "A hardhat node for local blockchain development",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
